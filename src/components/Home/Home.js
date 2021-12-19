@@ -11,7 +11,7 @@ export default function Home() {
   return (
 
     <div style={{ display: 'flexbox', width: 700, padding: 30 }}>
-          <h4>React-Bootstrap Carousel Component</h4>
+          <h4>Check out my Projects</h4>
       <Carousel>
         <Carousel.Item interval={3000}>
           <img
