@@ -5,7 +5,7 @@ import PasswordGen from "../Images/password-gen.png"
 import NoteTaker from "../Images/NoteTaker.gif"
 import jsquiz from "../Images/jsquiz.png"
 import pizzaMaker from "../Images/pizza-maker.gif"
-import Budget from "../Images/Budet-Tracker.gif"
+import Budget from "../Images/Budget-Tracker.gif"
 
 
 
