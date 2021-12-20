@@ -22,7 +22,7 @@ function PortfolioContatiner() {
     };
   
     return (
-      <div>
+      <div id="mainArea">
         <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
         <div>{renderPage(currentPage)}</div>
       </div>
