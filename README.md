@@ -13,7 +13,9 @@ This portfolio was made and deployed using react technologies
 # Installation
 View (https://nativeblanks.github.io/portfolio-react/) or you can download my code. npm i, npm start
 # Usage
-View my portfolio
+
+![](React-App.gif)
+ 
 # Contributing
 NA
 # Test
