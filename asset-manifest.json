@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.7fb4b12c.css",
-    "main.js": "/portfolio-react/static/js/main.d1b2ad0d.js",
+    "main.css": "/portfolio-react/static/css/main.4ec68479.css",
+    "main.js": "/portfolio-react/static/js/main.8d2d1954.js",
     "static/media/pizza-maker.gif": "/portfolio-react/static/media/pizza-maker.1f925d42f101752a1cc8.gif",
     "static/media/NoteTaker.gif": "/portfolio-react/static/media/NoteTaker.3031aa14b20741796ef3.gif",
     "static/media/Budget-Tracker.gif": "/portfolio-react/static/media/Budget-Tracker.a56cccb20e1429beae9d.gif",
@@ -10,11 +10,11 @@
     "static/media/jsquiz.png": "/portfolio-react/static/media/jsquiz.989c4ec38238c825f143.png",
     "static/media/password-gen.png": "/portfolio-react/static/media/password-gen.aa25cbf89939def02f6b.png",
     "index.html": "/portfolio-react/index.html",
-    "main.7fb4b12c.css.map": "/portfolio-react/static/css/main.7fb4b12c.css.map",
-    "main.d1b2ad0d.js.map": "/portfolio-react/static/js/main.d1b2ad0d.js.map"
+    "main.4ec68479.css.map": "/portfolio-react/static/css/main.4ec68479.css.map",
+    "main.8d2d1954.js.map": "/portfolio-react/static/js/main.8d2d1954.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fb4b12c.css",
-    "static/js/main.d1b2ad0d.js"
+    "static/css/main.4ec68479.css",
+    "static/js/main.8d2d1954.js"
   ]
 }
