@@ -59,7 +59,7 @@ export default function Home() {
           />
           <Carousel.Caption>
             <h3>Build your own pizza</h3>
-            <p>Tech used</p>
+            <p>Mongo database with full MVC set up</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={3000}>
@@ -70,7 +70,7 @@ export default function Home() {
           />
           <Carousel.Caption>
             <h3>JavaScript quiz</h3>
-            <p>Tech used</p>
+            <p>Quiz for JavaScript by JavaScript</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={3000}>
