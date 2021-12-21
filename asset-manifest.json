@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.655b1071.css",
-    "main.js": "/static/js/main.20dd33c9.js",
+    "main.css": "/static/css/main.2494d673.css",
+    "main.js": "/static/js/main.4f8c1102.js",
     "static/media/pizza-maker.gif": "/static/media/pizza-maker.1f925d42f101752a1cc8.gif",
     "static/media/NoteTaker.gif": "/static/media/NoteTaker.3031aa14b20741796ef3.gif",
     "static/media/Budget-Tracker.gif": "/static/media/Budget-Tracker.a56cccb20e1429beae9d.gif",
@@ -10,11 +10,11 @@
     "static/media/jsquiz.png": "/static/media/jsquiz.989c4ec38238c825f143.png",
     "static/media/password-gen.png": "/static/media/password-gen.aa25cbf89939def02f6b.png",
     "index.html": "/index.html",
-    "main.655b1071.css.map": "/static/css/main.655b1071.css.map",
-    "main.20dd33c9.js.map": "/static/js/main.20dd33c9.js.map"
+    "main.2494d673.css.map": "/static/css/main.2494d673.css.map",
+    "main.4f8c1102.js.map": "/static/js/main.4f8c1102.js.map"
   },
   "entrypoints": [
-    "static/css/main.655b1071.css",
-    "static/js/main.20dd33c9.js"
+    "static/css/main.2494d673.css",
+    "static/js/main.4f8c1102.js"
   ]
 }
