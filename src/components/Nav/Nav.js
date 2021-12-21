@@ -1,9 +1,14 @@
 import React from 'react';
+import Container from 'react-bootstrap/Container'
+import Row from 'react-bootstrap/Row'
 
 // Props are passed through our functional component.
 function Nav(props) {
   const tabs = ['Home', 'About', 'Portfolio', 'Contact'];
   return (
+    
+    <Container fluid="md">
+      <Row>
     <ul className="flex-row">
       {tabs.map(tab => (
         <li className="nav-item" key={tab}>
@@ -20,7 +25,9 @@ function Nav(props) {
           </a>
         </li>
       ))}
-    </ul>
+     </ul>
+     </Row>
+    </Container>
   );
 }
 
